@@ -1,0 +1,43 @@
+.navbar {
+    background-color: #3C34C3;
+}
+.logo {
+    max-width: 200px;
+}
+.nav-link{
+    color: azure;
+}
+.nav-link:hover{
+    color: rgb(0, 153, 255);
+}
+.BtnSearch{
+    background-color: whitesmoke;
+    border-radius: 5px;
+}
+.BtnSearch:hover{
+    background-color: #2b268f ;
+    color: whitesmoke;
+}
+#CarouselOfertas{
+    width: 800px;
+}
+.ContainerOfertas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0.2%;
+}
+.carouselImg{
+    width: fit-content;
+}
+#CarouselOfertas{
+    width: max-content;
+}
+.cardLojas{
+    display: flex;
+    max-width: 350px;
+    margin-top: 10px;
+}
+.card-img-top{
+    height: 200px;
+}
